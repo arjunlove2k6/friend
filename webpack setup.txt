@@ -1,0 +1,12 @@
+npm init
+
+npm install webpack webpack-dev-server path
+
+mkdir webpack.config.js
+
+
+npm  i --save-dev babel-loader babel-core babel-preset-es2015 babel-preset-react 
+
+mkdir .babelrc
+
+mkdir src
